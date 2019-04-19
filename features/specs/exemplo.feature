@@ -15,5 +15,5 @@ Funcionalidade: Cadastro - Validar que é possivel criar conta
 
     Exemplos:
       | tipo     | email                                       | senha      | cep |
-      | positiva | testeautomacaoruby8@gmail.com               | Ruby*1234  | 32801 |
-      | negativa | invalido_exemplo.automation8@mailsac.com    | testes_321 | 06380150 |
+      | positiva | testeautomacaoruby50@gmail.com               | Ruby*1234  | 32801 |
+      | negativa | invalido_exemplo.automation50@mailsac.com    | testes_321 | 06380150 |
